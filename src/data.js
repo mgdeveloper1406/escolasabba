@@ -4,21 +4,21 @@ function chillHop() {
     return [
 
         {
-            name:"Sunny in Saint Petersburg",
+            name:"Sábado à tarde",
             Lição: "Morte em um mundo de pecado",
             cover: "https://i.imgur.com/TtbeQwUh.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://mais.cpb.com.br/wp-content/uploads/2022/09/L02-1SAB.wav6",
+            audio: "https://archive.org/details/l-02-1-sab-1/L02-1SAB+(1).mp3",
             active: true,
         },
         {
-            name:"Perspective",
-            Lição: "Morte em um mundo de pecado",
+            name:"Domingo, 02 de outubro",
+            Lição: "Declarações sob tensão",
             cover: "https://i.imgur.com/TtbeQwUh.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=22794",
+            audio: "https://drive.google.com/file/d/13FB0Hw2mJqS4Q3-hsydPX17LE9dSKxI4/view?usp=sharing",
             active: false,
         },
         {
@@ -27,7 +27,7 @@ function chillHop() {
             cover: "https://i.imgur.com/TtbeQwUh.jpg",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=27502",
+            audio: "https://ia801508.us.archive.org/16/items/l-02-1-sab-1/L02-3SEG.mp3",
             active: false,
         },
         {
